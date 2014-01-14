@@ -1,0 +1,13 @@
+{
+	"name": "Utility",
+	"description": "Utility plugin for will be a base to encabsolate a set of usfull tools for croogo developers ",
+
+	"author": "Issa Khalil",
+	"authorEmail": "issa.mh.khalil@gmail.com",
+	"authorUrl": "http://www.linkedin.com/in/issakhalil",
+
+	"dependencies": {
+		"plugins": [
+		]
+	}
+}
