@@ -1,5 +1,3 @@
 <?php
 
-CroogoRouter::connect('/clear', array('plugin' => 'utility', 'controller' => 'utilities', 'action' => 'clear_cache'));
-
-
+CroogoRouter::connect('/clear', ['plugin' => 'utility', 'controller' => 'utilities', 'action' => 'clear_cache']);
